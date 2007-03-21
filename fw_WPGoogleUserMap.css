@@ -1,0 +1,14 @@
+v\:* {  behavior:url(#default#VML);}
+/*marker's comment area*/
+#gmapmarker {  font: normal small verdana, arial, helvetica, sans-serif;  font-size: 10pt;  margin: 0px;  width: 350px;  height: 150px;  overflow:auto;}
+#gmapmarker p{  margin : 0;  padding : 2px 0 2px 0;}
+#gmapmarker a {text-decoration: none; color: #0066CC; background-color: transparent;}
+#gmapmarker a:hover {color: #F60; background-color: transparent;}
+
+#gmapmarker h3, #maplisttitle h3 {  font-weight: bold;  font-size: 13px;  color: #369;  border-bottom: 2px solid #369;  padding : 2px;  margin : 0;}
+
+/* map div */
+#map {  float : left;}
+#carte_gauche { float:left; list-style-image:url(magnifier.png);}
+#carte_droite {float:left;padding-left:5px; clear:right;}
+#carte_droite ul li { list-style:circle; list-style-image:url(magnifier.png);}
