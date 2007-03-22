@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Myriam Faulkner
-Donate link :https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=web%40fairweb%2efr&item_name=fw%20WP%20plugins&item_number=fw%2dwpgoogleusermap&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=FR&bn=PP%2dDonationsBF&charset=UTF%2d8
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=web%40fairweb%2efr&item_name=fw%20WP%20plugins&item_number=fw%2dwpgoogleusermap&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=FR&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: google, google map, geo
 Requires at least: 2.0.9
 Tested up to: 2.1
